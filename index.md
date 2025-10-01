@@ -7,3 +7,10 @@
 
 ### Image of a Bearcat!!!
 ![image of a bearcat](https://www.worldatlas.com/r/w960-q80/upload/28/0b/ef/bearcat.jpg) 
+
+``` python
+x= 4
+y= 5
+hello= 2*x + 5*y
+print(hello)
+```
