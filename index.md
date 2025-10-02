@@ -14,3 +14,12 @@ y= 5
 hello= 2*x + 5*y
 print(hello)
 ```
+
+# To Do List for October 1st
+- [ ] Post lab for Lab 5
+- [ ] Work on Data Science Project
+- [ ] Diversity in Chemistry Project
+- [ ] Reorganize notes in all my classes
+- [ ] DataCamp (Due October 9th)
+- [ ] Review Music sheet for Wanna Be and Perfect
+- [ ] Look over slides for CC class
